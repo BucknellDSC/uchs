@@ -1,0 +1,1990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Interview with Hilda and Earl Jefferies</title>				
+			</titleStmt>
+			<publicationStmt>
+				<authority>Union County Historical Society</authority>
+				<publisher>Special Collections/University Archives, Bucknell University</publisher>
+				<date>19 November 1976</date>
+			</publicationStmt>
+			<sourceDesc>
+				<recordingStmt>
+					<recording>
+						<date>November 19, 1976</date>
+						<respStmt>
+								<name>Jeannette Lasansky</name>
+							<resp>interviewer</resp>
+						</respStmt>
+						<respStmt>
+							<name>Hilda Jefferies</name>
+							<resp>interviewee</resp>
+						</respStmt>
+						<respStmt>
+							<name>Earl Jefferies</name>
+							<resp>interviewee</resp>
+						</respStmt>
+						<respStmt>
+							<name>Karl Amylon</name>
+							<resp>editor</resp>
+						</respStmt>
+					</recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<head>Interviewees: Hilda Jefferies and Earl Jefferies</head> 
+					<byline>Jeannette Lasansky (11-19-76)</byline>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Maybe we could get started on the one room schoolhouse, what it was like to
+						go there...?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I went to school in a one room schoolhouse, my mother and my dad both did,
+						my sisters and brothers did and it was located about a mile and a half from
+						where we live now, (Carroll). It was really interesting. We had from the
+						first to the eighth grade one teacher, as high as 28 youngsters at a time,
+						and really we had no trouble. It was more like the open classrooms today,
+						but there was discipline. Not everyday did their own thing, like they do
+						today. And I walked from the Tea Spring Lodge or the Sand Fun Lodge, which
+						was 4½ miles one way and almost 5½ the other, when I went to school for most
+						of my school years. My sister - she did the same thing and my brothers too.
+						And I boarded with my aunt when I was younger, when I first started school,
+						who lived just about a half a mile from the school, but the latter part of
+						my school years, I did the walking - through the woods - never even saw a
+						bear - and there were bear in this country at that time. I saw deer, grouse
+						which always scared the daylights out of me. Our teachers were very good, I
+						mean they gave you more than just the three R's. They taught us things that
+						are worthwhile for the rest of your life. We had especially three of them,
+						the Schwank people, Charlie Schwank who later was a teacher in the Jersey
+						Shore High School and his sister Anna and their niece Ada Dowdy, and I've
+						kept in contact with these two people, the younger ones ever since they've
+						taught our school we've been good friends. They taught us a lot of things
+						besides what was in the book. It was very good. I loved the school, hated to
+						miss it, but I did get snowed out once in a while, and had to stay home for
+						maybe a week at a time when our roads were snowed in, couldn't get out, and
+						I guess that's about the most important. Sometimes we had pretty big boys,
+						who became a little bit obnoxious (chuckle) but normally everyday got along
+						pretty well.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Did the fellows come back who were maybe older than a normal eighth grade
+						age?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Yes, yes, they did. They used to, not so much when I went, but when my
+						sister and brothers went. They went 'til they were 21 years old sometimes,
+						because there wasn't any local high school at that time. Most of them
+						finished up their entire schooling in a one room schoolhouse, first to
+						eighth grade school.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>When would you start?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>We'd start in September and end in April. It was an eight-month school year
+						instead of the nine which we have now.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Was that because of farming, maybe, in part?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I think so. I believe that had a lot to do with it, and some of the older
+						boys and girls would take jobs. The girls would go out and do the housework
+						on the farms and the boys would be hired, and I think that was the big
+						reason. And all schools, even the town schools didn't have nine months at
+						that time.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>How long did this school keep on going as a one room schoolhouse? Do you
+						know when it closed?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Our youngest daughter who is going to be 28 years old, she had her first two
+						years there.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>That would be about 1947.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>'52 or '54 is when the school closed and then it was used as a residence for
+						a couple years, and then a group of men bought it for a hunting cabin.
+						Finally when the Shortway or Foute 80 came through,it was completely
+						demolished. The interchange is right where the school had been.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Now what was it like in the classroom?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>It had a pot-belly stove right in the middle and it used hard coal to keep
+						it warm and it was very nice and warm, always felt comfortable. Mornings,
+						sometimes before the fire came up, it was chilly, but otherwise it was quite
+						comfortable. And we had a water cooler, a little faucet in the bottom where
+						we got our water. Previous to that it used to be just an open bucket with a
+						dipper in it. That was before they were conscious of sanitation, I
+						guess.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>You didn't have separate cups? You just had the one?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No. You did if you took them. Otherwise a lot of the families didn't think
+						of it.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>And you'd bring your lunch?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Always brought our lunch, brought our own lunch. We had no hot meals and
+						very few had thermos bottles at the time. In fact they didn't have them when
+						I went but then later when our children went to school there, then they had
+						thermos bottles and we'd send along in them warm chocolate or milk, or
+						whatever.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>And was the time about the same that the children go to school now?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Well, we started school at nine and ended at four, had an hour off for lunch
+						and 15-minute recess in the morning and 15 in the afternoon.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Were the texts the same that had been used for a long time or had they been
+						changed?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>If I remember, they had the McGuffey Reader at first, the reader which there
+						had been quite a lot of talk about that in the last few years, as you
+						already know, and we had, I remember, when I was in the eighth grade, about
+						eight books, eight different books. I've even forgotten what 'em all
+						was.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>There was mental arithmetic. We had grammer, a little bit of English. In
+						grammer class, each class would be called to sit up in the front row and
+						recite or be called on, or if it was written work, we'd go to the board and
+						write it. It was kind of nice. (Chuckle)</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>When you went up, did you go with all the different grades at once?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No, each grade went up of his own accord and they'd call you. They' say
+						"rise" "pass" and "be seated", - that's the way. Everybody rose at one time
+						of that particular class and they might be scattered all over the room
+						because they didn't have them sitting, one grade here, one grade there.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Did you have your own choice where you sat?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Usually it was like that in the fall, you picked your seat and then you kept
+						it for the rest of the year unless you had some problem, then sometimes the
+						teacher would move you. (Laughter)</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>What does "pass" mean?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>That would be when you got up from your seat, and then you marched or walked
+						up to the front of the room, and that would be “pass”. And the same reverse
+						step when you'd go to the back of the class.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Was the front on a platform or raised?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>The teacher's desk was a trifle higher but that had large legs on it and was
+						up a little higher.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Did the teachers stay for very long?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>They'd teach as much as two and three years at a time before there'd be
+						another teacher, when I went. Now, I don't know about earlier than
+						that.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Do you know why the teachers stayed for that long? Were they going on to a
+						different school?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>In the township, they would be changed around from one school to another by
+						the school board. Whenever they had difficulty with any school, some¬ times
+						they'd transfer them in the middle of the term, but not as a rule. That
+						didn't happen often.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Were there certain choices in keeping the school up?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Yes. Each one would take his turn at the sweeping job and carrying in the
+						coal. The boys would do that and bring in the water to fill the water
+						cooler. Each person had his chore. They just assigned usually two to do
+						this. Somebody would be cleaning the blackboard in the meantime. It was
+						really nice. You can't imagine how nice it really was.</ab>
+				</sp>
+				<sp>
+					<speaker>Earl: </speaker>
+					<ab>Hilda, tell them about where they got the water.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Oh, they got their water from a little natural spring. It was about an
+						eighth of a mile wide, possible. We'd get it there. Nobody seemed to have
+						any difficulty with bugs or anything in those days. Today, they do though.
+						Now that spring was down below where the old schoolhouse sits.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>What about the discipline? You said it was quite disciplined. What was that
+						like? What happened?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Oh, yes. When the teachers needed to paddle somebody, they did. And if they
+						disobeyed on a minor thing, they'd stand on the floor for so long, sometimes
+						with their face in the corner. Sometimes you'd just have to stand and face
+						the whole school depending what the teacher wanted, depending on what his or
+						her method was.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Was there a paddle that was prominent on display?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Usually up above the blackboards or the maps. Sometimes it was just a piece
+						of a yardstick or something like that, never anything too much. The kids
+						were usually pretty good.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>But it was fairly disciplined?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Very much disciplined. Now you know today with the open school, everybody
+						talks or moves or does what they pretty much want to. You couldn't talk out
+						loud during school session. If you wanted to know some¬ thing, you held up
+						your hand, the teacher'd call you by name and ask you what you wanted. If
+						you needed to go out to the outside pottie, you'd raise your hand and ask
+						"May I go out, please?" and she'd tell you to go. You knew enough to come
+						back in time or she came out and got you.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>No dawdling?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No dawdling.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>What about helping each other?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Now you see all the classes were listed as A. B and C class. Beginner were
+						under the C class, or the primer class, and if the older ones were finished
+						with their work and other ones in the class needed help, you were allowed to
+						help, but ask the teacher first. We always respected what the
+						teacher...</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>And do you think that sort of helped?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Oh, I think it did.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>What was the feeling of going into a school room where you have eighth
+						graders and you're a first grader? Do you remember emotions?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Oh, not exactly, I don't, because I did a little studying before I went
+						because I had spent my first year in school when I was nine years old. I had
+						gone a few months when I was eight years and I didn't go a full term until I
+						was nine years old, and I was kind of acclimated to it, and I usually got
+						along pretty well with people, so not too much trouble. One cousin and I
+						used to scrap like the dickens, we just went on...today we're both up in
+						years and we still don't see eye-to-eye. (laughter) She was more or less
+						boisterous and I was just full of pep and life, but not in the same
+						way.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>The texts, they would coordinated with things like maps?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Yes, in geography we used maps a lot. And you'd have your assignments out of
+						your own book. Everybody had their own book.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Did you pay for your book and keep it?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No. no.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Was that passed down?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>That was passed down. And when you were finished, you turned it in when the
+						school term ended and it was passed on the next year. Lots of times you
+						would get a book somebody had had maybe five, six years before, and when
+						they got too badly used, why they'd get new ones.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Did the books basically remain the same in the period you were in
+						school?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Pretty much the same, I would say for the years that I went to school. Not
+						too much change in the years that I went. I went from the time I was nine
+						until I was sixteen. Then I was through with grade school. Then I went to
+						high school for a year. I started the second year and dropped out. I was a
+						"dropout", but not literally like they think now because I felt my parents
+						needed me more than I needed to go to school. To try to drive eleven miles
+						in a Model-T Ford and go home and help do chores in the evening and hurry to
+						get up early in the morning, this was too much of a job. And I've never been
+						sorry because my dad and mother really needed my help and needed my being
+						there with the car and everything.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>And why had you started late?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>That was, I guess, due to the fact that I was living so far away to get to
+						school. I had to walk alone because I was the last one in the family. I
+						didn't have anybody to walk with. I had to go two miles through the woods
+						before I picked up my companions. And that was one of the reasons.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Pretty good walk.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I don't know, maybe I was retarded, I don’t know. (Laughter) But I don't
+						think so. I did study for it. You know, we were studying a little bit
+						before. We had a friend who came hunting to our house for maybe, oh, 20
+						years before that time and he decided that he was going to give me books
+						before I ever went to school. That helped a lot. My mother and father was
+						learnin' all the things. Got along pretty well.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Was there distance between you and your brother...?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Fourteen months, fourteen years between my sister and myself. I came along
+						late in life.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Now you were saying that a lot of what you learned was not in books. What
+						kind of things?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>How to treat your fellow man and just a general Christian back ground, not
+						that they taught any particular denomination or anything. The one man was a
+						minister and his sister and niece were both Christian women. I think that
+						all the children that went to school under that program ended up with a
+						pretty nice -- they were just good kids, people, that's all.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Would there have been anything else that you would have learned that
+						wouldn't have been academic?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No, I don't think so.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Was this their sole profession until they retired?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Yes, that was their profession. And then I had other good teachers who
+						dropped teaching after a few years of it and went to farming and got married
+						and did other things like that. I think there were three who stuck with
+						teaching until they retired.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Was it well paid?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>That I really couldn’t tell you.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Was it a respected profession?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>It was a respected profession but as far as paying is concerned, I don't
+						think it was very high, not at that time. (Question directed at E) -I think
+						you saw some of the old books? Who showed those to you?</ab>
+				</sp>
+				<sp>
+					<speaker>Earl: </speaker>
+					<ab>I forget what it amounted to but it wasn't much though.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>$50.00 a month or something like that.</ab>
+				</sp>
+				<sp>
+					<speaker>(F)</speaker>
+					<ab>Oh, it wasn't that much. I think it was $30.00.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>And you had to furnish your own transportation or board at the nearest home.
+						One, this Mr. Schwank, he used to ski for his home was over at Eastville. He
+						used to ski through the woods along the old railroad grade down to school.
+						He skied when we had a lot of snow. He'd drive his horse at other
+						times.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Would students ski in?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No. no.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>That was unusual.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>That was an unusual thing. He was the only one locally who had skies at that
+						time.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Were they things he made himself?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I think they were.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>You had mentioned the tea that we'll be having at lunch?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>That used to grow very profusely on the tea knob which is south of the Sand
+						Fun Lodge. We'd gather it by the armsfull when I was a little girl, 10 or 12
+						years old. My daddy and I would go for tea in late September. That was when
+						you would pick it because then the danger of snakes would be a little less
+						than earlier. He'd take me with him and we'd get armsfull of it: strip the
+						leaves off.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>This is the goldenrod.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>This is the goldenrod or Blue Mountain tea as it's known and that's what
+						we're going to have for lunch today.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Now you used all leaves?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Just the leaves, not the stem. Just strip the leaves off and dry them, put
+						them in a can and keep them indefinitely.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Does this have to be dried in the sun?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No, it can be dried in a room or any place where there is an air
+						circulation. In the bedroom you might do it, on papers or on cloth; when
+						it's dry, you put it away. It dries easily and quite fast.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Did you use it because it had a particularly good taste or did it have the
+						qualities...?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Yes, yes, it had a particularly good taste. It had sort of an anise taste
+						and most people like it, but you didn't use that exclusively. We'd have
+						store tea which we liked. We'd have that every now and then. I think you
+						would get tired of it if you had it too often.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>It's nice to have it just once in a while. Were there any other kinds of
+						things in terms of foods, that you'd gather and treat specially?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Oh, yes, brackens, the three-fork fern that grows and comes up to a
+						fiddleneck. We'd get that every spring. That's a must with me now. It isn't
+						spring without that. I'm like Euell Gibbons - have to have that bracken
+						every spring.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Now what do you do with it?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>We cook it in salt water, drain it, put a little browned butter on, salt and
+						pepper it and it's delicious. Our children grew up with it and they all love
+						it. It's like mushrooms. You have to know what fern you're picking because
+						you could get the wrong thing. And of course I've learned to cook lamb's
+						quarter. They grew that in the cornfields and in the gardens. Of course
+						everybody knows about dandelion. That's nothing unusual.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>For lamb's quarter, what do you do?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Same procedure, just like spinach. You can freeze or can it. You can use it
+						like spinach and very few people know the difference.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>The dandelion you use in salads?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Yes, dandelion's a must. And there's poke but I've only learned to use that
+						in the last 20 years. You use it when it's about 5 to 6 inches tall, never
+						any taller than that; and you cook that and you could put a sour vinegar
+						dressing on it or you can butter it. It's very good. But after that, it
+						becomes quite poisonous. Those "burries" are poisonous.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>When does it become usable?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>In May, the latter part of May is when the poke comes up for use. The middle
+						of May this bracken is ready to be used.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>And then in terms of the poke, you have a very short time in which to pick
+						it?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>That's right, I'd say about a week or ten days, maybe two weeks at the most.
+						By that time it shoots so fast you just don't take any chance on it. And
+						it's sold in the market. Even Harrisburg has it on their market.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Are parts of the poke poisonous?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>The whole stalk after it gets to a certain age is, and the the "burries" are
+						extremely poisonous.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>The leaves may or may not be?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I'm not so sure about that. I've always been told never to use it after a
+						certain stage, and I've gone along with that.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Can you tell in looking at the size?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Yes, I think I can. I never pick it when it's more than about that
+						high.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Five or six inches.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>It has a very nice yellowish, reddish, crisp look, something like asparagus
+						at the base. Is there anything else that I use? Oh, yes, sour grass. That
+						makes a delicious salad. Do you know what sour grass looks like?</ab>
+				</sp>
+				<sp>
+					<speaker>Earl: </speaker>
+					<ab>Looks like a cloverleaf.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Looks like a closer but the middle leaf is much, much longer. If you gather
+						that and put one of these dressings that you mix up, you know the "nice and
+						easy" or something like that, it's delicious.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Do you know anything about local herbs?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Just the ones that grow in the garden, like rue and parsley and fennel, but
+						I don't grow too many of them. talking about going to school and living in
+						an isolated area, back in 1923, my father was six or seven weeks in bed. He
+						had drank water when he was overheated and that apparently gave him a case
+						of gastritis. Well, he was in bed for seven weeks and my mother took care of
+						all the barnwork and took care of him at the same time. And then my sister
+						came home. She had been married by that time and she came home. We were
+						going to our next door neighbors, who lived two miles away from us, to get
+						our mail,and we took our old saw horse who was way up in his twenties at the
+						time. We hitched him to a cutter; there was snow on the road at that time,
+						and we started for the mail. We got about one half the way and we saw that a
+						big tree had crossed the road. We didn't know how we were going to get the
+						horse or the cutter across this tree. We unhitched the horse and led him
+						around and he stood still while we lifted the cutter over - hitched him up
+						and went on and got the mail. When we came back from getting the mail, we
+						did the same thing all over again.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>What is a cutter?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>A cutter is a sleigh that you can put two seats on like a spring wagon. You
+						know what a spring wagon is, don't you? This cutter has a long runner and
+						comes up in a sort of a curl like that in front and has a dashboard on it
+						and two seats. You hitch one horse to it at the shaft and that's what's
+						called a cutter.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Do you know how it got that name?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Well, the only thing I can think of is because it cuts through the snow.
+						It's not like a sleigh. It's different.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>What do you use it for?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>You haul your groceries in it, things like that. I think that it's a handier
+						thing in a way than what a fancier sleigh because you had very little room
+						with a nice fancy sleigh except where you put your feet. Then you'd have to
+						pile things on top of them. We always used the cutter. My dad had a large
+						bobsled too. That was two sections of sled which had a big wagon box on it.
+						We'd take that to parties. We'd load the neighbors up and go to oyster
+						suppers and dances and things like that.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>And what are oyster suppers?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Well, we'd get a whole bunch of people together and have fried oysters,
+						oyster stew and crackers, and bread and butter, and that was about it. They
+						used to be called cyster duppers.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Where would they get the oysters?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>They got them shipped in from the bay by train. You see we had a train going
+						through here.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Oh, from the Chesapeake?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Yes, they'd come in by the gallon, fresh shucked oysters.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>And that was sort of a major social event?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>That was a major social event for the winter time, plus square dancing, yes,
+						quite a few square dances. And they'd meet and square dance in the homes.
+						Sometimes they'd rent a hall like an Oddfellows Hall. My dad used to be a
+						fiddler. He never took a lesson in his life, and he had a violin. In fact,
+						he even made a violin which I still have. But he had another one that he had
+						bought and used to play for these square dances. He and a cousin of my
+						mother's used to play together. My sister used to cord along with them on
+						the guitar. My brother did too sometimes when he'd be home.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Do you know about the songs he played? Is there anybody doing that
+						anymore?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Not locals, there isn't. I used to play the "Arkansas Traveler". That was
+						more of a dialogue that we'd go through. That was more of an entertainment
+						feature of a dance or when one had guests for supper, he would be called
+						upon to play this "Arkansas Traveler". Recite with it, that was
+						interesting.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Are there songs that are very local?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No, I really don't know. I think they're used in other places too, the same
+						type of song, because I know when they'd visit in Danville, they'd learn new
+						tunes. They'd come home and bring them up here.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>So the tunes travelled?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>They travelled.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Were there other kinds of dances other than the square dance?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Not when I grew up.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Like a polka?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Not too many were done then.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Was the schottishe played?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>My daddy used to play it but they didn't do the dance with it. My grandma
+						did. She was very good. She could do a schottishe and she was an extremely
+						good waltzer. She was born in Germany and she could waltz very well.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>What was the schottishe like?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>It was snappy, sort of a quick, I would say more like the polka but
+						different, I didn't do any of these.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Were the dances done by older people?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Only the older people did the schottishe at that time. But then about, I
+						would say in the late thirties and forties, some of our local girls learned
+						to polka and they did the polka then, but I never learned to do that.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>What other kinds of things would be done in the winter to get together?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Quilting bees. They did a lot of quilting. The women would get to mingle a
+						little and get together and quilt and have a nice big meal with it.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Would they have done the piecing before?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Oh, yes.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>How would that go? Would people bring separate pieces?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No. usually each person who was going to have the quilting, would have it at
+						her home from a quilt that she had already finished, ready to guilt, and
+						then the other ladies would be invited in and they'd get it done that much
+						quicker. And they were very fussy about quilting. Sometimes they did it
+						along each seam of each patch on each side and that took lots of time.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Double the amount.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>They doubled the amount. They didn't do it like they do today.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>What if somebody didn't quilt up to par? (Laughter)</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>They weren't invited back the next time. If they made too many big
+						(Laughter) stitches, they weren't invited back.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>How long would a quilt take to be done?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Oh, it took weeks in the wintertime if you did it yourself. There's only
+						about four people that can work on a side of a quilting frame comfortably.
+						They do maybe a half a quilt in a day with that many working on it, and then
+						maybe they'd have another one another time or the owner of the quilt would
+						finish it.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Would many quilting bees occur in a winter?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Quite a number, maybe six or eight in that little colony (county?). When
+						people came to our house they had to drive anywhere from six to seven miles
+						to get there. And the same way when my mother went to quilt, she'd have to
+						drive to get there.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>So it was as much a social...?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>It was pretty much a social function.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>...as well as getting something done. The men would not be in the house at
+						this time?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Not usually. They went about their own business and came in to eat, of
+						course, at noon. Then men whose wives went to the quilting usually stayed
+						home that day. (Chuckle)</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Would a man ever quilt?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Not that I know of, but I did have a neighbour who did a lot of crocheting,
+						a man, and he was very good at it. Incidentally he became a jeweler. That
+						was Harry.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Can you remember any of the patterns and the reasons why they were called
+						what they were? I know you have something like "The Drunkard's Path"
+						and...</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>"The Drunkard's Path" and “The Bear Paw” and ”The Nine Patch”, and a lot of
+						different ones. They got to appliqueing quilts too, later on. They were very
+						pretty. Two were called "The Wedding Ring" and "The Flower Garden". I still
+						have a "Flower Garden" ready to put together. (Chuckle) I never know how
+						I'll accomplish it.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>In the middle, what kind of filling would they use?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>They used bathing at that time which was a rolled cotton. It came in a big
+						roll, and then later on they had a thinner material to use. My mother also
+						used sheet blanket, you know one of the cotton sheet blankets to fill her
+						quilts and that made a nice soft, comfortable quilt. It washed better when
+						you went to toss it in the washing machine. It stayed together nice.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Was that a wool or a cotton?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>A cotton. And then for haps you would use real lamb's wool from the sheep.
+						You would shear the sheep, wash the wool and then pick it by hand - the
+						pulling process. We sleep under a wool hap all the time.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>What is a hap?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>It's like the acrylan comforts that you can get today. They're real light
+						and warm. Well, your wool hap is pretty much the same but it's a trifle
+						heavier.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>So it would be one sheet of material?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>One sheet of material with the filling inside. It's wool that you'd pull by
+						hand, and then you'd have to level that. You'd hve to put it all and you'd
+						feel whether it was even all the way around with your hand and then knot it.
+						You didn't quilt that. You knotted that.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Your husband was mentioning the yarrow tea.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Yarrow. We still use yarrow now. It's a good thing to use if you have gall
+						bladder trouble. My sister's taken it for years and years. She's 83 years
+						old and she just declares that is the thing that's kept her from having
+						surgery. Do you know what yarrow looks like?</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>No, I don't. It's a tame flower which has a very tiny flower and it's in a
+						cluster. It's similar to "Queen Anne's Lace," but it's different. There's a
+						similarity to it if you're not sure of one or the other and you could be
+						mistaken about it. You bring that in, cut it up, and dry it. Then you brew
+						it and drink that tea anytime you feel like it.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Yarrow looks like like "Queen Anne's Lace?"</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>It has a white flower.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>And it has a rather broad, green leaf?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No, very ferny, very lacy, little fern-like leaf. I've picked lots of "Queen
+						Anne's Lace" but right now my mind's on the yarrow and I can't think of just
+						what the leaf's like on the "Queen Anne's Lace". I recall wild carrot. It's
+						considered a need.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>You pick it up and it has like a little carrot below?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Yes, and it will have a little carrot.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>And that is yarrow?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No. no, the yarrow is different. Yarrow doesn't have a bulb at the
+						bottom.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>O.K., but the leaf looks like that?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>A little bit. The leaf looks a little bit like that and the blossom has a
+						similarity, enough so that if you didn't know one from the other definitely,
+						you could be mistaken.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Now, how do you prepare that?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Just scald it like you would after it's dried. I just take a bunch in my
+						hand and then put a quart of water on it and strain it and after it's
+						steeped a while, then you drink it. I have some out in the refrigerator
+						right now.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>You're using what comes out of a leaf mainly when you're scalding?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No, the blossom.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Do you cut the whole plant?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>About 10" of plant you cut up and that's all - not down where it's real
+						tough and green.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>So from the top, you go down about 10".</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>That's right and if you get it too low, it gets very bitter, extremely
+						bitter if you get the main stem. I mean the heavy stem - it makes it
+						bitter.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Now, can you store that or do you have to use it as you make it?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Well, I never keep it much more than two weeks in the refrigerator. It keeps
+						well that long but I think it's good not to have it any longer than
+						that.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Would you have it if you didn't have a gall bladder problem?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Yes, I would take it for diabetes or something like that. If you had a
+						slight retention of sugar, you would use it. I know of people who have used
+						it and have kept their sugar down. Adale Davis writes much about it. We've
+						known about it long before I ever knew of Adale David -- and then we used
+						it. My sister used it for about 30 years and she had gall bladder attacks
+						one after the other. The yarrow always seems to pull her out of it.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Now, are there other things you take to cure things?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Yes, there's the sweet fern that grows in the mountains. That's good for a
+						number of things. I'm not sure just what all it's supposed to be good for.
+						Alfalfa is good for tea and that's another thing that's good for diabetes.
+						Alfalfa tea's supposed to be very good but we have never used that.
+						Huckleberry tea is another good thing. It's made from the leaves of a
+						huckleberry plant.</ab>
+				</sp>
+				<sp>
+					<speaker>Earl: </speaker>
+					<ab>(suggestion from Earl) (Pipsissewa is good)</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Pipsissewa is extremely good for the stomach. You can eat the leaf just as
+						it grows and that's good for an upset stomach. It's a bittersweet juicy
+						leaf. I don't know whether you know what it's like or not. It doesn't grown
+						as plentiful around here as it used to. It's an Indian name. The Indians
+						used to use it. Of course there's wintergreen, which was commonly called
+						teaberry. A lot of people make tea out of that.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Are they the same, wintergreen and teaberry?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>That's right, they're one and the same thing. If you get a teaberry tea
+						leaf, you can see how good it tastes. It's the same favor as wintergreen. I
+						think wintergreen's made from it, the flavor you buy in bottles.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Now, I notice that you can get teaberry ice cream.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Yes. Do you know what they make the teaberry ice cream out of? Those little
+						flat teaberry candies, the pink ones. That's what they use to make ice
+						cream. At least when we made homemade ice cream from wintergreen, that's
+						what we used.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Where do you get the pink? Is it a natural kind of condition?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Yes, it would be from the berry because they're very colorful. People would
+						gather them here and can them. They would can them for a relish for meats
+						and things like that. They would add spice to the teaberries too. They would
+						put maybe a clove or two in the jar and would serve these "burries" with the
+						park roast. But now there's very few wintergreen berries to be found or
+						teaberries as they're called around here.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Would you use the leaf for something else?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>You could put leaves in your pears. You know the keefer pear is kind of a
+						bland pear and you can put wintergreen candy or wintergreen leaves in
+						it.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>And would that give a different taste than the berry?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Not necessarily. No, it's the same. The berry tastes the same as the leaf.
+						There is very little difference between the berry and the leaf. There's a
+						few growing around now but nothing like there used to be when the grouse
+						were plentiful. That would be their main feed in the fall, these
+						teaberries.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Are there fewer grouse now?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Oh, yes, they're very scarce now. I saw two all of last year. One was about
+						two miles and half east of us and the other was over near Lagonia (sp) They
+						were in the road. That's the only two that I saw all of last year.</ab>
+				</sp>
+				<sp>
+					<speaker>(F)</speaker>
+					<ab>When we moved here there were acres of teaberries down near the road, The
+						denisty of the forest has killed them all out because they must have lots of
+						sunlight.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>And a certain moisture, too. They need a certain amount of moisture.</ab>
+				</sp>
+				<sp>
+					<speaker>Earl: </speaker>
+					<ab>Grouse were very plentiful down in this bottleneck at that time. They used
+						the teaberries for feedin’.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Teaberries and thornberries.</ab>
+				</sp>
+				<sp>
+					<speaker>(F)</speaker>
+					<ab>Thornberries.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>There were a lot of thornberries.</ab>
+				</sp>
+				<sp>
+					<speaker>(F)</speaker>
+					<ab>Those are goin' out too.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>And is that because of the change?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>There's just a general change in everything, it seems. Course there has been
+						some disease in the ground too in the last 30 years. And then we don't have
+						trappers like we used to and we have more foxes I think. I don't think
+						there's too many foxes here now. We don't see any tracks in the snow or
+						anything like we used to. You know you could go down across the road and see
+						fox tracks. You can't do that anymore. So I think they're not even as
+						plentiful as they had been. Our wildlife's changing. A lot of the deer are
+						getting killed on the shortway. Five within the last two months were killed
+						right out front here. So they’re going pretty fast.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Are there other kinds of game and fowl that have changed as well as the
+						vegetation here.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Well, we didn't have too much of anything, but deer and grouse and wild
+						turkey. Of course wch had more wild turkey than we used to, due to stocking
+						them in here. I don't think natural wild turkeys are as plentiful as they
+						used to be. The game commission hatches them and then brings them on in. By
+						1their nature they haven't become as wild as other natural wild turkeys.
+						They're like trout, just a little snarter. It seems like they are anyway.
+						They see things a little quicker.</ab>
+				</sp>
+				<sp>
+					<speaker>Earl: </speaker>
+					<ab>Why don't you tell about the bear that came into the woodshed?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Last April about midnight, this little black dog we have became very excited
+						and barked, He kept on barking and came to the front porch here. At that
+						time, he slept at the woodhouse. He kept it up so much that I became curious
+						and when I came down, I knew that he was scared by the way he barked. It was
+						a scared bark. So I let him in quick and then I went on out the back way and
+						turned on the light. There was a large bear in our bird feeder. She had
+						knocked the topoff it, and was sitting on her haunches picking the bird feed
+						out of the bird feeder. I called my husband. He had heard me get up to see
+						what was wrong, and in the meantime he fell asleep again I thought I'd never
+						get him down here in time to see that bear but he finally made it. He got a
+						good chance to look at the bear too. And then exactly a month after that,
+						the bear came in again with two cubs. But then we haven;t seen any of them
+						since. In the meantime, two bear have been killed up on the shortway. We
+						don't know if they're the same bear or not.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>What kinds of bear?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Black bear, a native black bear.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Are there many here?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No, not too many. It's a rarity if anybody kills a bear here locals.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Is this the way it's always been, that there haven't been too many?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No. Many years ago there were quite a few, more than there are now. I
+						believe. Of course the hunters have better access to the woods than they
+						used to because of the roads, and they can get closer to the place where the
+						bear live.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Now getting back to the quitting and the hap. Hop would be like a
+						comforter.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Comforter, that's right. It would be considered a comforter.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Was that fancier?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No. They were usually made of cutting, cotton flannel. You know what cotton
+						flannel is? They used that for the top and bottom. And to keep them from
+						being sailed so readily, they often put a strip of muslin over the top at
+						the neck end and would be able to take that off and wash it. My mother used
+						to make very thin material covers for her wool haps that you could take off
+						and wash so that they didn't get soiled.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>So you actually slept with those?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>We slept under them with a blanket or a sheet depending on how warm the room
+						was. We had straw tickets instead of a mattress. We have a ticking filled
+						with cut-up straw. We had a straw cutter cut the straw about four inches
+						long and we'd fill the tick with that. We'd put that on the bed on the
+						spring and if you didn't have springs, you'd put them on just the slats, and
+						that was a very comfortable bed. You'd be cuddled down in it in the
+						wintertime. slept between paper mill blankets. A paper mill blanket is what
+						they roll the paper on to flatten it out, or did at that time. I think they
+						have a different procedure now. I know they do because I saw a demonstration
+						in Philadelphia not too many years ago on how they make paper and how they
+						roll it. But at that time, they used these complete wool blankets to roll
+						the sheets of paper.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Is it like a felt?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>It's like a felt and you could have it carded. In later years they used more
+						of a felt-type thing. It's real thick and heavy. I have a couple of 'em I
+						keep between my springs and mattress. It keeps the cold out and keeps the
+						dust from going down through on the floor. At that time, my mother used to
+						buy these paper mill blankets. I think after they were used a certain length
+						of time, they'd sell them. They were warmer. I have one right out here. They
+						keep you real warm if you can stand wool against your skin or your feet or
+						legs or anything. I'd sleep in a cotton flannel mighty in between two of
+						these paper mill blankets, all with this wool hap on the top and the straw
+						tick underneath. I was cozy as a buq in a tug in a real cool room that
+						didn't have any heat in it at all. In fact, our whole family did. My dead
+						and mother, as they were getting up in years, of course, had the room which
+						had the stove pipe which went up through the floor and that kept their room
+						warm.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Was this from a coal stove?.. wood stove?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>It was wood at that time and my father cut all his own wood. He always cut
+						the dead chestnut. After the bright we had lots of dead chest nut and he cut
+						the dead chestnut or the dead oak. Sometimes he'd cut live oak and then saw
+						it with a little circular saw with a gasoline engine for the power. He cut
+						the wood for the entire house. Sand Fun Lodge had 16 rooms when we lived
+						there and that took a lot of firing. We had to have a kitchen range and then
+						we had a big burner in the living room and one in the hall, and one on the
+						third floor.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>These were separate stoves?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>separate stoves. And they were burnin' wood all the time and we never had
+						coal.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Did you use all the rooms there or did you close part of it?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>At hunting season time we did, but we kept them closed when just the family
+						was there. We had our three bedrooms and living room and kitchen heated. We
+						even closed the dining room off at times.</ab>
+				</sp>
+				<sp>
+					<speaker>Earl: </speaker>
+					<ab>Tell her how many hunters came.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>My mother kept hunters all the time she was married and it ended about 1926,
+						I think. We had 54. My mother, sister and I did the cooking for them and
+						served hot cakes every other morning for that group of men.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>How many months would that go on?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>That would only go on for two weeks in Deer season. Of course we had small
+						game hunters for rabbit and grouse and squirrel.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>But there wouldn't be maybe as many'</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No, there wouldn't be as many, but for Deer season there was always a pretty
+						good crowd.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Did you ever know how many cord of wood you'd go through?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No, I don't think we ever counted them. We just cut what we needed and burnt
+						it. And there's nothing quite like wood to make a good warm fire.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>What about faith healing in this area and powwowing?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Well, there's quite a bit of it. I had an aunt who did it, but I always
+						considered her powow as more of repeating Bible verses, ones that I'd never
+						hear. It was kind of a hub-hush affair too. Kids didn't get in on a lot of
+						these things unless you overboard them talking about it. They used to
+						pOWWOW.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>How did you become a person who was able to powow? Do you know?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I think that, as I remember, they used to say it was passed from man to
+						women or from women to man or something like that. Whatever did it didn't
+						teach the same sex. They taught the opposite.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Within the family? Could it be somebody outside...?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I think somebody outside the family, I'm quite sure. But that sort of faded
+						out by the time I was old enough to have any real knowledge of it, so I
+						don't know too much about it. I know my had had a verse out of the Bible
+						that would stop blood. He always used that. My aunt did too.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Do you know what verse that was?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I have it marked in one of my Bibles. I'm not sure which one. I believe it's
+						in Kings.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>What kind of people would go to a powwower?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I think people who were a little superstitious. I think they'd go for that.
+						I think usually they did powow and they were very superstitious about
+						tokens. I heard my husband telling you about that when I walked in. If a
+						bird would fly against the window, that was a sign of a death in the family.
+						If a shears would move by a violation of any kind that meant death too. My
+						mother wasn't much for that. She couldn't see that, She said if there's
+						anything that you hear that you don't understand, she said go ahead and
+						recitate. She said nine times there's a natural cause for it. She didn't go
+						much for it.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>But your aunt did?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>My aunt is more inclined for that. She had Indian blood in her. Of course I
+						do to though to a lesser degree than she did. But my mother was German. She
+						didn't have any Indian blood in her. This was on my father's side of the
+						house.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Now do you know whether the people that practiced powowow had books?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I don't know. The only thing I remember that stuck with me was the fact that
+						this stopping the blood by the verses out of the Bible. And that's the only
+						one that I really paid attention to because I thought it was authentic. I
+						didn't go for some of this other hocus pocus.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Can you remember any of the stories about differant cured in a powow?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No, really I can't. As I say, I didn't take too much to talking about it. My
+						mother didn't either. And she'd always say, If you hear something and you
+						just don't know what it is, don't built up a lot of scary ideas about it."
+						She said, "Go look what it is and find out." I sort of have her philosophy
+						about things like that.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Do you know whether anybody's still practicing that around here?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Not that I know of, none at all. I think they’reall gone.</ab>
+				</sp>
+				<sp>
+					<speaker>Earl: </speaker>
+					<ab>All the oldtimers have passed away, I think, that did it.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I don't know of anybody.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Why weren't children sort of in on powow?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I'm not sure about why they weren't. I know why it wasn't carried down in my
+						case because mother explained it to me. She said a lot of these things that
+						people get all excited about are just things that are happening naturally. I
+						can't even think of some of the things that they used to have superstitions
+						about - all sorts of things. If you took an unbrella and opened it in the
+						house, you'd be sure to have bad luck. If you carried a shove through a
+						house, you'd have bad luck, or anything like that.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Can you remember any other kinds of superstitions?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Well, like katydids. I think they're the cutest things that ever were. You
+						know what I mean? Katydids, the little green....? I bring them in the house.
+						I like to hear them, like the cricket. I love them. I like to have them and
+						feed 'em bread crumbs and keep them as long as they stay. We have a
+						neighbour that's still living here in our neighbourhood that said, "Oh!
+						Don't do that. You're going to have a death in your family before the year
+						is over. I don't swallow that. I still like the katydids - but that man is
+						still living here and is a neighbour of ours.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Do you think he'd be a person that would know a lot of superstitions?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I don't really know. That was one of them. I know when I said I took the
+						katydid in, he said "You shouldn't do that, you're going to have a death in
+						your family".</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Were there any things that you were supposed to do or not do if somebody was
+						sick?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I know there's things that I've heard but they just don't stick with
+						me.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>I was wondering too, in terms of the powow, whether that was in certain
+						ethnic groups, like Germans practice it, or Scotch-Irish practice it or does
+						that sort of cut across the groups?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Well, I think maybe before my time, somebody might have been able to give
+						you a little bit more on that other than what I could because my aunt's the
+						only one that I came in contact with, you know that did things like that.
+						She died in 1945 and she was 81 or 82 at that time. But growing up with my
+						mother telling me that a lot of this stuff is horus poons and to investigate
+						to see whether any of this stuff is real or whether it is imaginary, I
+						didn't pay too much attention to it. I just took it with a grain of salt.
+						Well, don;t make 'em unhappy if they think they're alright.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Merrill had mentioned that he thought he had heard something to the effect
+						that, by a certain age, to know whether you would be a person who practiced
+						powow, you had to catch a ground hog and kill it by the time you were a
+						certain age.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I think maybe he might have heard something like that but I don't know
+						anything about that. You know, the longer I live, the more I think some of
+						these things ? influence, I really do. I don't pay a bit of attention. I
+						wouldn't read a horoscope. I don't believe in it. I think there are people
+						who are a little bit more psychic than others but if they used it the right
+						way, that'd be alright, but I think we get carried away.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>You had mentioned the soap and the different kinds. You said you had a
+						short-cut recipient and how it was done before.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>You know you butchered your own pigs and you had your ham. You cured hams
+						for the whole summer long and really it was remarkable how they would keep
+						well for you.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Were these smoked?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Smoked hams. Cured and pickled. And my parents always did theirs in salt
+						brine, strong enough that you could carry an egg and only about a quarter of
+						the egg stuck up. That's how strong they made this. And then they would
+						smoke them with hickory smoke or corn cobs or something like that. And then
+						my mother in the spring of the year, would put pondered boric acid on the
+						tops of the hams and that would deter the bags from getting into them. Then
+						she'd put them in flour bags, flour sacks. They're those heavy flour sacks.
+						She'd tie them shut and hang them in a cool, dry place and we'd have ham the
+						whole year round. All those finds she'd cut off these hams when she sliced
+						it down for baking or trying, she'd keep from that whole year. The next
+						spring she would put them in an iron kettle and put in certain amount of
+						caustic soda in with the water and boil that thing down. And that's how we
+						made our homemade soap. And it's really a nice soap to wash with and we
+						didn't have detergents in those days, and of course we had soft water and it
+						worked alright. Try using homemade soap in a little had water and you'd have
+						trouble on your hands. You'd have a milky mass with no ends. Now I make mine
+						by using bacon fat and Banner lye or Live's lye and stirring it together to
+						correct proportions and I come out with a beautiful, white soap.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Is it warm when you’re doing it?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Putting the lye in the cold water makes the water hot. And then you pour
+						your melted grease into that,keep stirring it until it congeals.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>So you're not applying any heat while doing it?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No. no. but mother did. She had to keep a fire under her kettle and bolt the
+						soap first for a certain length before it was ready to come out. And in the
+						bottom of her soap there would be a layer of real strong lye liquid, and
+						she'd use that for scrubbing board walks, and porches that were unpainted.
+						That would make them come off real nice and white. It was real hard
+						work.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>So it was really strong?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>It was strong but it would make a purified and clean thing. They used to
+						keep their milk in crocks in the cellar. When the cream came to the top, it
+						would be skimmed off. Then at housecleaning time, probably twice a year, and
+						always once a year, if you missed the fall cleaning, you secured those
+						wooden lids that you put over the crocks with this Banner lye and it cleaned
+						up those pine lids like it was nobody's business. And they were clean; they
+						were sanitary and swelled good.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Now the difference between her soap and yours is--she would add a lye?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>She would add caustic soda.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Instead of the lye.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>But you could use the lye. You never see caustic soda. I think it was
+						stronger.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Than the lye?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Than the lye that you buy today.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Now when, after you mix this, it gives you a certain consistency?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>And then you harden it and cut it up in squares.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>You pour this into a pan?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>A pan, a wooden hold or shallow box or whatever you happen to have. It keeps
+						indefintely and I have used it in my automatic washer. People throw up their
+						hands. "Oh, you wouldn't use it in your automatic washer"? I said "Yes, I
+						would" I grind it in a food grinder and it makes it almost as fine as a
+						detergent and if you have your water good and hot, you get a beautiful white
+						wash out of it.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>You do?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>especially on those days when you hang your wash out. I don't use it in the
+						wintertime because it'll dry in the dryer. But it works alright and my
+						daughter (I have a daughter who's 30 some years old, and she's married and
+						has five children) she makes soap and she uses it in her automatic washer.
+						It really can be done yet.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Do you make soap periodically?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Once a year I make it. I'll give you a piece before you leave. Don't let me
+						forget. You better make notes about all the things that I'm going to
+						do.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Will you be making soap this summer?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I expect to.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Maybe we could take some pictures while you're doing it.</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>There wouldn't be anything to it. I just use a little dishpan and a wooden
+						stirrer and the lye.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>O.K. it'd be nice to see. (chuckle) How much do you need to make?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Well, I have a lot stored ahead. The longer you keep it, the harder it gets
+						and the harder it is to grind and also if you're using it by the cake, it
+						lasts a long, long time. It doesn't wash away very fast. But now if you have
+						a soft soap which a lot of people make, just a soft kind, that melts and
+						goes real quick.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Now, can you make your soap different consistencies?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Yes, you can cut down on your lye.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>And have more of a soft...?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I'm not sure about that. I've never made the soft kind. For boiled clothes,
+						they used this kind of soft soap. They'd throw in a handful of this soft
+						kind, when you boil your white clothes in a boiler. And that hasn't been so
+						many years since we've done that, when you come to think about it. I think
+						about 1929 was the last we used to boil our clothes. After that we got a
+						washer which had a motor underneath. Before, we had no electricity. Up until
+						that time, we always boiled our white things and it really made them
+						sanitary and white.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Would you do this once a week?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Once a week, on washday which usually fell on Monday. Of course we stopped
+						doing that. Monday doesn't worry me.- whether I wash Monday. I wash when I
+						need to. We had a neighbour here. I think she'd wash Monday whether it
+						snowed or just anything. She always has the prettiest wash. That's a custom
+						with her, wash on Monday. The week wouldn't go right if she didn't.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Would it ake a good part of the day to do clothes?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Oh yes, it did take a good bit of time. If you rubbed your dark clothes on a
+						washboard, it was real work. It was especially hard after ou had a lot of
+						hunters and had all those beds to wash and you'd get caught with the spring
+						going dry. So my had used to load the big washing kettles on the wagon and
+						take them to the spring where his father had gone to housekeeping in the
+						lower part of the property, and that spring had never gone dry. Mr. Linn
+						knows where that one is. And there we'd build this fire and heat our water
+						and wash these sheets on the nicest day you could get after hunting season
+						was over. Of course at that time, hunting season was earlier than what it is
+						now. It's in November. And you'd have those Indian summer days. You'd take a
+						day like that do do your washin and it take a whole day to do this.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Due to the work from the hunting</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>From the hunters.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Otherwise you'd just do it once a week for yourself?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>That's right.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>When you say soft soap, is that actually so soft that it doesn't form a cake
+						or that the cake is more pliable?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No, it doesn't form a cake. It's just like thick Jello. But I don't make
+						that kind. Now there's recipes for that, but I'm not so sure that I even
+						have a recipe for that. The kind I make now is a good, hard white soap. I
+						add a little chlorax, borax, and I use somethingelse in it too...ammonia.
+						Now long ago before they put any of that stuff in the boiled soap, it was
+						sort of a beige colored soap, but it wasn't a very appetizing looking color.
+						But the kind you make now, you can make it look nice and white.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>You can add perfume or something?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Yes, I've done that too. (chuckle) But I usually have to make a patch of it
+						and it takes too much perfume. Anything really good enough to really carry
+						through would cost too much, so if you're making the soap to save money,
+						then you wouldn't put a lot of perfume in it and loose your bargain.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Do you make the soap because...?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>I make the soap to use up my bacon fat because we don't use the fat and it's
+						a good way to use it up. You go to a sale, an auction, a farm auction and
+						they bring out lots of this homemade soap. You'd be surprised how that stuff
+						sells. It's a novelty. I have a friend down in the Lutheran Home in Camp
+						Hill that's 86 years old and she just loves homemade soap and I used to tak
+						e her quite a few pieces because she was used to using it. She uses it to
+						wash her clothing. She thinks nothing else quite works the same.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>How much bacon fat do you have to collect to...?</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>Oh, my recipe calls for six quarts, I think. It doesn't take too long to get
+						six quarts of bacon fat because today bacon is mostly fat anyway. so you can
+						get quite a bit of it.</ab>
+				</sp>
+				<sp>
+					<speaker>Jeannette: </speaker>
+					<ab>Now you make it once a year. Is that a double recipient</ab>
+				</sp>
+				<sp>
+					<speaker>Hilda: </speaker>
+					<ab>No, I usually use just one recepe at a time. Now I had a little more than
+						that this year because I didn't make any last year. I skipped last year, And
+						a good way to make your soap pretty is to take your</ab>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>
